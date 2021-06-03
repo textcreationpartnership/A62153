@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian testimony of some, called Quakers, at Reading, in Barkshire, to some fundamental truths of the Christian religion Giving an account, first, of twelve weighty queries, proposed to some preachers, and others of the people, called Quakers, at Reading, concerning some essential principles of the Christian faith. Secondly, our plain and positive answer to the said twelve queries, in twelve several positions, according to Scripture. Thirdly, a copy of a paper sent to them.</title>
+            <author>Sandilands, Robert.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62153</idno><idno type="EEBO-CITATION">99827469</idno>
+  <idno type="VID">31887</idno>
+  <idno type="EEBO-PROQUEST">2240917906</idno>
+  
+            <idno type="STC">Wing S656</idno>
+            <idno type="STC">ESTC R215674</idno>
+            <idno type="PROQUEST">99827469</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827469e"/>
+            <note>(EEBO-TCP ; phase 2, no. A62153)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31887)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1897:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian testimony of some, called Quakers, at Reading, in Barkshire, to some fundamental truths of the Christian religion Giving an account, first, of twelve weighty queries, proposed to some preachers, and others of the people, called Quakers, at Reading, concerning some essential principles of the Christian faith. Secondly, our plain and positive answer to the said twelve queries, in twelve several positions, according to Scripture. Thirdly, a copy of a paper sent to them.</title>
+                  <author>Sandilands, Robert.</author>
+                  <author>Pain, William, fl. 1696.</author>
+                  <author>Jaques, George.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Bradford, in New-street, without Bishopsgate, near Hand-Ally,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert Sandilands. Various parts supplied by Sandilands, George Jaques, and William Pain.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Early works to 1800.</term>
+               <term type="topical_term">Quakers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb n="1" facs="tcp:31887:1"/>
+            <head>THE <hi>Christian Testimony</hi> Of Some, Called QUAKERS, At <hi>Reading,</hi> in <hi>Barkshire,</hi> To some FUNDAMENTAL TRUTHS of the <hi>Christian Religion.</hi>
+            </head>
+            <head type="sub">Giving an Account,
+<list>
+                  <item>First, <hi>Of Twelve Weighty</hi> QUERIES, <hi>Proposed to some Preachers, and others of the People, called</hi> Quakers, <hi>at</hi> Reading, <hi>Concerning some Essential Principles of the</hi> Christian Faith.</item>
+                  <item>Secondly, <hi>Our plain and Positive Answer to the said Twelve Queries, in Twelve several Positions, accor<g ref="char:EOLhyphen"/>ding to Scripture.</hi>
+                  </item>
+                  <item>Thirdly, <hi>A Copy of a Paper sent to them.</hi>
+                  </item>
+               </list>
+            </head>
+            <div type="to_the_reader">
+               <head>To the Christian Readers.</head>
+               <p>THese are to signifie to You, That whereas some Preachers of the People called <hi>Quakers,</hi> at <hi>Reading,</hi> have refused to give us an Answer to some weighty Queries sent to them, above a Month ago, which were quested of them from time to time:
+<pb n="2" facs="tcp:31887:2"/>But, instead thereof, some of them have given us Threatning, Uncivil Language; and, seeing they have denyed us any Meeting of a public Conference, which we have desired them to give us, wherein we might prove them guilty of unsound Doctrine, form their own Expressions, both in publick Meetings and private Conferences, concerning divers Essential and Funda<g ref="char:EOLhyphen"/>mental Principles of the Christian Faith; and, some of them having also manifested their great Prejudice, by their disorderly Opposition, and most grievous Confu<g ref="char:EOLhyphen"/>sion, which they caused in our publick Meeting-House, in <hi>Sun-Lane</hi> Back-side, on the 27th. of the 7th. Month, 1696. as was too apparent, to the great grief of many, and the dishonour of their Profession. W<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therefore thought fit to publish these <hi>Queries,</hi> which have so much offended them, (wherein there is no<g ref="char:EOLhyphen"/>thing truly offensive) and we leave it to the Conside<g ref="char:EOLhyphen"/>ration of all Intelligent <hi>Christians</hi> to judge, Whether we have not just Cause to disown and withdraw from them, and all such who are so dark and opposite, both in their Principles and Practices, to the Christian Faith, commonly professed throughout <hi>Christendom.</hi> And for the satisfaction of all Christian Readers, to whom these may come, and in Vindication of the True Christian Doctrine, we have found our selves Conscientiously concerned to subjoyn our plain, and Christian Testimony by our positive Answer, to the said <hi>Queries,</hi> in Twelve several distinct Positions.</p>
+            </div>
+            <div type="letter">
+               <pb n="3" facs="tcp:31887:2"/>
+               <opener>
+                  <salute>FRIENDS,</salute>
+               </opener>
+               <p>
+                  <hi>THomas Curtis, Benjamin Coale, William Soundy,</hi> &amp;c. seeing you have given us some just Cause, as we judge, to think ye have not a sound Faith, touch<g ref="char:EOLhyphen"/>ing divers Great and Weighty Doctrines and Principles of the Christian Religion, plainly delivered in the Holy Scriptures, for our Satisfaction, who have been your frequent Hearers, and your Vindication; If so be ye are innocent, and to answer what the Holy Scripture requires of you, to be ready to give the Reason of the Hope that is in you, to them that ask you with meekness and fear, 1 <hi>Pet.</hi> 3.15. We desire you to give us a plain Answer to these following QUERIES.</p>
+               <p n="1">I. <hi>IS not the Promised Seed of the Woman, that should bruise the Serpent's Head,</hi> Gen. 3.15. <hi>the Man Christ Jesus, that was born of the Virgin at</hi> Bethlehem, <hi>in the Land of</hi> Judea?</p>
+               <p n="2">II. <hi>That Seed of</hi> Abraham, <hi>to which the Promise was made, That in Him all the Nations of the Earth shall be Blessed, according to</hi> Gen. 22.18. Gal. 3.16. <hi>Was it not the Man Christ, who according to the Flesh, was the Son of</hi> Abraham, <hi>and the Son of</hi> David, Matth. 1.1?</p>
+               <p n="3">III. <hi>Had not this Man, a real Soul, that was not the Godhead, and a Real Body also that was not the Godhead?</hi>
+               </p>
+               <p n="4">IV. <hi>Is not that Man that was Born of the Virgin,
+<pb n="4" facs="tcp:31887:3"/>properly and truly the Son of God, having no imme<g ref="char:EOLhyphen"/>diate Father but God?</hi>
+               </p>
+               <p n="5">V. <hi>Is not Jesus Christ both God and Man; and yet, but One Christ; and so that his Godhead is not his Manhood, though, the nature of his Manhood is most highly and wonderfully united to his Godhead?</hi>
+               </p>
+               <p n="6">VI. <hi>Did Christ's Body that was Crucified, and was Buried, rise again; and did that Body after his Re<g ref="char:EOLhyphen"/>surrection ascend into Heaven; and is that Body now in Heaven?</hi>
+               </p>
+               <p n="7">VII. <hi>Is that Heaven, into which Christ hath ascen<g ref="char:EOLhyphen"/>ded in the true Glorified Nature of Man, (consisting of Soul and Body) without us, or within us only? And do ye own the Man Christ Jesus, to be without you, as well as his Spirit and Light within you?</hi>
+               </p>
+               <p n="8">VIII. <hi>Are we justified and cleansed from Sin by the Blood of Christ, that was outwardly shed; and are we sanctified by that Blood, as well as by his Spirit, and Grace, and Light in us?</hi>
+               </p>
+               <p n="9">IX. <hi>Is it altogether and wholly necessary for us to believe in Christ without us for our Eternal Salvation, as to believe in his Spirit and Light in us? And is not the Faith of Christ, as he dyed for our Sins, and rose again, and is at the Right Hand of God, and also maketh Intercession for us, according to</hi> Rom. 8.34. <hi>necessary to be frequently Preached, as well as his Inward Appearance, by every true Minister of Christ?</hi>
+               </p>
+               <p n="10">
+                  <pb n="5" facs="tcp:31887:3"/> X. <hi>Do ye believe that all that were saved in any Age of the World, have their Sins forgiven them, for Christ's sake, and on the account of his most holy and perfect Obedience unto Death; and that, what Light and Grace all Men ever received from God, in former Ages, or now receive, or shall hereafter receive, to the Worlds end, it is given to Men for the Man Christ Jesus his sake, and by his Purchase and Merits, and continual Mediation and Intercession?</hi>
+               </p>
+               <p n="11">XI. <hi>Shall the Man Christ Jesus come again, and appear without us, to judge the Quick and the Dead?</hi>
+               </p>
+               <p n="12">XII. <hi>Is there any Resurrection of the Dead, that all or any of the deceased Saints, wait for? And doth the Body that dyeth, rise again? Or, is the Resurrection nothing else, but what ye have already, or what ye shall have immediately after Death?</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Reading,</hi>
+                     <date>the 30th. of the 6th. Month, (called <hi>August</hi>) 1696.</date>
+                  </dateline>
+                  <signed>Signed by <hi>George Jaques,</hi> on behalf of the rest Concerned.</signed>
+               </closer>
+            </div>
+            <div type="reply">
+               <pb n="6" facs="tcp:31887:4"/>
+               <head>Our Plain and Positive Answer to the said Twelve <hi>Queries,</hi> in Twelve several <hi>Positions,</hi> according to Scrip<g ref="char:EOLhyphen"/>ture.</head>
+               <p n="1">I. WE believe, That the Promised Seed of the Woman, that should bruise the Serpent's Head, according to <hi>Gen.</hi> 3.15. is the Man Christ Je<g ref="char:EOLhyphen"/>sus, that was Born of the Virgin at <hi>Bethlehem,</hi> in the Land of <hi>Judea, Matth.</hi> 2.1.5.</p>
+               <p n="2">II. That Seed of <hi>Abraham,</hi> to which the Promise was made, That in him all Nations of the Earth should be blessed, according to <hi>Gen.</hi> 28.18. <hi>Gal.</hi> 1.6. is the Man Christ Jesus; who, according to the Flesh, was the Son of <hi>Abraham,</hi> and the Son of <hi>David, Matth.</hi> 1.1.</p>
+               <p n="3">III. This Man Christ Jesus had, and now hath, a real Soul that is not the Godhead, and a real Body also that is not the Godhead, <hi>Psal.</hi> 16.10. <hi>Acts</hi> 2.27. <hi>John</hi> 12.27. <hi>Matth.</hi> 26.38. <hi>Heb.</hi> 2.14. <hi>Heb.</hi> 10.5, 10.</p>
+               <p n="4">IV. That Man that was Born of the Virgin, pro<g ref="char:EOLhyphen"/>perly and truly is the Son of God, having no imme<g ref="char:EOLhyphen"/>diate Father, but God, <hi>Luk</hi> 1.32, 35. <hi>John</hi> 1.49. <hi>Matth.</hi> 16.13.16.</p>
+               <p n="5">V. Jesus Christ is both God and Man, and yet but one Christ; and so that his Godhead is not his Man<g ref="char:EOLhyphen"/>hood, though the Nature of his Manhood is most high<g ref="char:EOLhyphen"/>ly and gloriously united with his Godhead, <hi>Rom.</hi> 9.5. 1 <hi>Tim.</hi> 2.5. 1 <hi>Cor.</hi> 8.6. <hi>Heb.</hi> 2.16. <hi>John</hi> 1.14.</p>
+               <p n="6">VI. Christ's Body that was Crucified, and Buried, did rise again; and that Body after his Resurrection, did ascend into Heaven, and that Body is now in Hea<g ref="char:EOLhyphen"/>ven, <hi>John</hi> 2, 19, 21. <hi>Rom.</hi> 6.9. <hi>Eph.</hi> 4.8. <hi>Heb.</hi> 9.24.</p>
+               <p n="7">
+                  <pb n="7" facs="tcp:31887:4"/> VII. That Heavens, into which Christ hath Ascen<g ref="char:EOLhyphen"/>ded in the true glorified Nature of Man (consisting of Soul and Body) is without us; and the Man Christ Jesus is without us, as well as his Spirit and Light is within us, <hi>John</hi> 14.2. <hi>Deut.</hi> 30.12. <hi>Rom.</hi> 10.7, 8. <hi>John</hi> 3.13. <hi>Luke</hi> 24.51. 1 <hi>Pet.</hi> 3.22.</p>
+               <p n="8">VIII. We are Justified and Cleansed from Sin by the Blood of Christ, that was outwardly shed (through Faith in it) and we are sanctified by that Blood, as well as by his Spirit, and Grace, and Light in us, <hi>Rom.</hi> 5.9. and 3.25. <hi>Heb.</hi> 10.29. and 13.12. 1 <hi>John</hi> 1.7. 1 <hi>Cor.</hi> 6.11.</p>
+               <p n="9">IX. It is altogether, &amp; wholly necessary for us to be<g ref="char:EOLhyphen"/>lieve in Christ without us, for our Eternal Salvation, as to believe in his Spirit and Light in us. And the Faith of Christ, as he dyed for our Sins, rose again, and is at the Right Hand of God, and also maketh Inter<g ref="char:EOLhyphen"/>cession for us, according to <hi>Rom.</hi> 8.34. is necessary to be frequently preached, as well as his Inward Ap<g ref="char:EOLhyphen"/>pearance, by every true Minister of Christ, <hi>Rom.</hi> 10.9, 10. <hi>Gal.</hi> 2.16. and 3.26. <hi>Gal.</hi> 3.2.</p>
+               <p n="10">X. All that were saved in any Age of the World (as well as now) have their Sins forgiven them for Christ's sake, and on the account of his most holy and perfect Obedience unto Death; and what Light and Grace all Men ever received from God, in former Ages, or now receive, or shall receive hereafter, to the Worlds end, it is given to Men, for the Man Christ Jesus his sake, and by his Purchase and Merits, and con<g ref="char:EOLhyphen"/>tinual Mediation and Intercession, <hi>Ephes.</hi> 4.32. <hi>Heb.</hi> 9.15. <hi>Rom.</hi> 5.18.</p>
+               <p n="11">XI. The Man Christ Jesus shall come again, and ap<g ref="char:EOLhyphen"/>pear without us, to Judge the Quick and the Dead, <hi>Acts</hi> 1.11. and 10.42.</p>
+               <p n="12">
+                  <pb n="8" facs="tcp:31887:5"/> XII. There is a Resurrection of the Dead, that the deceased Saints generally wait for; and the Body that dyeth, shall rise again; and the Resurrection of the Body is something else, than what the Saints have al<g ref="char:EOLhyphen"/>ready, or what the Saints have immediately after Death, 1 <hi>Cor.</hi> 15.12, 13, 42. 2 <hi>Tim.</hi> 2.18.</p>
+               <closer>
+                  <dateline>
+                     <date>The 8th of the 9th. Month. 1696.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Signed by us, on Behalf of the rest Concerned,</hi> William Pain, Robert Sandilands, George Jaques.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <p>WHereas, some Preachers, and others, among the Peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers,</hi> at <hi>Reading,</hi> have Charged me <hi>George Jaques,</hi> and the rest of the Friends concerned with me, with Schism, or making a Separation, and grounding the same upon some Queries (I delivered to them) which treat of divers great and weighty Doctrines of the Christian Religion, necessary to be believed by all true and sound <hi>Christians.</hi> These are to desire the said Persons to give us a Meeting, and to appoint Time and Place convenient; and let us have timely Notice thereof; provided also, that it be free for any sober People to hear what we have to say on behalf of the Queries above mentioned, and we shall be ready to attend you.</p>
+               <closer>
+                  <dateline>
+                     <hi>Reading,</hi>
+                     <date>the 27th. of the 7th. Month, 1696.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Given forth by me</hi> George Jaques, <hi>on behalf of the rest Concerned.</hi>
+                  </signed>
+               </closer>
+               <postscript>
+                  <p>I desire your Answer in a short time.</p>
+               </postscript>
+               <trailer>THE END.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Bradford,</hi> in <hi>New-street,</hi> without <hi>Bishopsgate,</hi> near <hi>Hand-Ally.</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
